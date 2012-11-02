@@ -1060,7 +1060,7 @@ fr:
 
     #app/views/main/_assignment_info_summary.erb
     assignment_average:        "Moyenne : %{results_average} %"
-    assignments_collected:     "Projects recueillies :"
+    assignments_collected:     "Projets recueillies :"
     assignments_submitted:     "Projets envoyés :"
     assignments_graded:        "Projets corrigés :"
     refresh_graph:             "Actualiser le graphique"
